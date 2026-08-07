@@ -8,8 +8,6 @@
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.88%2F10-8B5CF6?style=flat-square&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-New%20Delhi%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -37,7 +35,6 @@
 const ayushSareen = {
     role: "MERN Stack Developer",
     location: "New Delhi, India",
-    education: "B.Tech Computer Science Engineering, GNIOT (GGSIPU) — CGPA 7.88/10",
     stack: ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB"],
     philosophy: "Ship clean, maintainable, production-ready code"
 };
@@ -162,7 +159,7 @@ Contributed as a front-end developer building interactive, responsive web applic
 
 | Recognition | Details |
 |---|---|
-| 🧩 DSA Practice | Solved 200+ problems on LeetCode, GeeksforGeeks, and CodeStudio360 |
+| 🧩 DSA Practice | Maintained consistent practice on [LeetCode](https://leetcode.com/u/AYUSH_SAREEN12/) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushsar9zfh) |
 | 📄 Research Paper | *"Campus Connect: A Centralized Platform for Discovering Student Opportunities"* — under review |
 | 🥈 HackWithDelhi Hackathon | Secured a Top 40 finish among hundreds of participants |
 | 🏅 Hackathon Participant | Smart India Hackathon 2025, CodeVeda Hackathon 2025, Troubleshoot Ideathon 2025 |
@@ -219,18 +216,6 @@ Contributed as a front-end developer building interactive, responsive web applic
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushsareen793&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -260,7 +245,7 @@ Contributed as a front-end developer building interactive, responsive web applic
 ```yaml
 currently:
   learning:
-    - "Advanced DSA — solved 200+ problems on LeetCode, GfG, CodeStudio360"
+    - "Consistent DSA practice on LeetCode and GeeksforGeeks"
     - "System design fundamentals for full-stack applications"
   building:
     - "Polished, deployment-ready MERN stack projects"
