@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ayush%20Sareen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ayush%20Sareen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+End-to-End+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
@@ -33,14 +33,14 @@
 
 ```
 const ayushSareen = {
-    role: "MERN Stack Developer",
+    role: "Aspiring Full-Stack Developer",
     location: "New Delhi, India",
-    stack: ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB"],
+    stack: ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB", "TypeScript"],
     philosophy: "Ship clean, maintainable, production-ready code"
 };
 ```
 
-I'm a final-year Computer Science student and MERN Stack Developer with hands-on experience building end-to-end web applications using **React**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**. I have a strong grasp of REST APIs, server-side rendering, and responsive UI design, with practical experience implementing OAuth authentication and JWT-based session handling.
+I'm an Aspiring Full-Stack Developer with hands-on experience building end-to-end web applications using **React**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**. I have a strong grasp of REST APIs, server-side rendering, and responsive UI design, with practical experience implementing OAuth authentication and JWT-based session handling.
 
 I've built and deployed two full-stack platforms end-to-end — from data modeling and API routes to authentication flows and Tailwind-driven UI — and I care about writing code that's clean, secure, and production-ready.
 
@@ -56,15 +56,17 @@ I've built and deployed two full-stack platforms end-to-end — from data modeli
 
 **Languages**
 
-![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js)
+![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
 
 **Frontend**
 
 ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
+![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ![REST API](https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square&logo=fastapi&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-7C3AED?style=flat-square&logo=auth0&logoColor=white)
@@ -143,7 +145,7 @@ A full-stack creator monetisation platform where fans can financially support th
 Contributed as a front-end developer building interactive, responsive web applications using vanilla HTML, CSS, and JavaScript during a focused one-month engineering internship.
 
 **Scope of Work:**
-- Built a Stopwatch web application with start, stop, and reset functionality using HTML, CSS, and JavaScript.
+- Engineered a Stopwatch web application with start, stop, and reset controls using vanilla JavaScript, applying event-driven DOM manipulation and state management patterns.
 - Developed a fully responsive Landing Page optimised for mobile and desktop viewports using CSS Flexbox and media queries.
 - Created an interactive Quiz Game application with dynamic question rendering, score tracking, and result display using vanilla JavaScript.
 
@@ -161,8 +163,9 @@ Contributed as a front-end developer building interactive, responsive web applic
 |---|---|
 | 🧩 DSA Practice | Maintained consistent practice on [LeetCode](https://leetcode.com/u/AYUSH_SAREEN12/) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushsar9zfh) |
 | 📄 Research Paper | *"Campus Connect: A Centralized Platform for Discovering Student Opportunities"* — under review |
-| 🥈 HackWithDelhi Hackathon | Secured a Top 40 finish among hundreds of participants |
-| 🏅 Hackathon Participant | Smart India Hackathon 2025, CodeVeda Hackathon 2025, Troubleshoot Ideathon 2025 |
+| 🥈 HackWithDelhi Hackathon | Secured a Top 40 finish among hundreds of participants (June 2024) |
+| 🚀 Code Veda 2025 | Advanced to the Online Round among 6,000+ participants |
+| 🏅 Hackathon Participant | Smart India Hackathon 2025, Troubleshoot Ideathon 2025 |
 | 🎓 Bootcamp | Completed [Full Stack Web Development Bootcamp](https://ude.my/UC-bc6255ac-ac4c-446e-b25d-379a6d951b6a), Udemy (2025) |
 
 </div>
@@ -178,7 +181,7 @@ Contributed as a front-end developer building interactive, responsive web applic
 | Certificate | Provider | Details |
 |---|---|---|
 | [The Complete Full-Stack Web Development Bootcamp](https://ude.my/UC-bc6255ac-ac4c-446e-b25d-379a6d951b6a) | Udemy | Instructor: Dr. Angela Yu · 61.5 hours · Completed July 2025 |
-| Deloitte Technology Job Simulation | Forage | Practical tasks in Coding & Development · Completed July 2025 |
+| Technology Job Simulation | Deloitte (via Forage) | Practical tasks in Coding & Development · Completed July 2025 |
 
 </div>
 
@@ -248,7 +251,7 @@ currently:
     - "Consistent DSA practice on LeetCode and GeeksforGeeks"
     - "System design fundamentals for full-stack applications"
   building:
-    - "Polished, deployment-ready MERN stack projects"
+    - "Polished, deployment-ready Next.js & MERN-based full-stack projects"
     - "GitHub documentation for Travel-Log and GetMeACoffee"
   open_to:
     - "Frontend / Full Stack / Associate Developer roles"
