@@ -183,6 +183,7 @@ Contributed as a front-end developer building interactive, responsive web applic
 |---|---|---|
 | [The Complete Full-Stack Web Development Bootcamp](https://ude.my/UC-bc6255ac-ac4c-446e-b25d-379a6d951b6a) | Udemy | Instructor: Dr. Angela Yu · 61.5 hours · Completed July 2025 |
 | Technology Job Simulation | Deloitte (via Forage) | Practical tasks in Coding & Development · Completed July 2025 |
+| Foundations of Prompt Engineering | AWS Training & Certification | Completed August 2026 |
 
 </div>
 
