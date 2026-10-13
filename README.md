@@ -20,7 +20,7 @@
 
 <br/>
 
-[![Profile Views](https://hits.sh/github.com/ayushsareen793.svg?style=flat-square&label=Profile%20Views&color=7c3aed&labelColor=1f2937)](https://hits.sh/github.com/ayushsareen793/)
+![Profile Views](https://komarev.com/ghpvc/?username=ayushsareen793&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/ayushsareen793?color=7c3aed&style=flat-square&label=Followers)
 ![Stars](https://img.shields.io/github/stars/ayushsareen793?color=6d28d9&style=flat-square&label=Stars)
 
