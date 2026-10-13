@@ -20,7 +20,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushsareen793&color=8b5cf6&style=flat-square&label=Profile+Views)
+[![Profile Views](https://hits.sh/github.com/ayushsareen793.svg?style=flat-square&label=Profile%20Views&color=7c3aed&labelColor=1f2937)](https://hits.sh/github.com/ayushsareen793/)
 ![Followers](https://img.shields.io/github/followers/ayushsareen793?color=7c3aed&style=flat-square&label=Followers)
 ![Stars](https://img.shields.io/github/stars/ayushsareen793?color=6d28d9&style=flat-square&label=Stars)
 
@@ -224,7 +224,7 @@ CGPA: 7.88 / 10.0
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayushsareen793&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsareen793&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=ayushsareen793&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
