@@ -13,7 +13,7 @@
 <br/>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sareen-792283255/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsareen0808)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsareen793@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsareen793)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ayushsareen.vercel.app/)
@@ -102,14 +102,16 @@ A full-stack, responsive travel journaling platform for publishing geotagged tra
 | **Stack** | Next.js, NextAuth, MongoDB, Mongoose, Cloudinary, Mapbox, REST APIs, Tailwind CSS |
 | **Auth** | NextAuth OAuth 2.0 (GitHub + Google) with automatic user provisioning |
 | **Performance** | **41% faster API responses (887ms → 527ms)** across **8,000+ records** using a `createdAt` index + Mongoose `.lean()` |
+| **Quality** | Scores **90+ on Lighthouse** |
 | **Media** | Direct browser-to-cloud image uploads with Cloudinary |
 | **Deployment** | Vercel CI/CD with SSR for SEO-friendly URLs |
 
 **Engineering Highlights:**
-- Architected the full-stack platform for publishing geotagged travel logs, with an interactive Mapbox map, search, and category filters for discovery.
+- Architected the full-stack, responsive platform for publishing geotagged travel logs with cover photos, hidden gems, and tips, with an interactive Mapbox map, search, and category filters for discovery — scoring 90+ on Lighthouse.
 - Implemented NextAuth OAuth 2.0 (GitHub/Google) with automatic user provisioning, and built REST API routes verified via Postman.
 - Integrated Cloudinary for direct browser-to-cloud image uploads.
-- Designed a MongoDB indexing strategy that eliminated collection scans, cutting API response time by 41%.
+- Designed a MongoDB indexing strategy using a `createdAt` index and Mongoose `.lean()` that eliminated collection scans across 8,000+ records, cutting API response time by 41%.
+- Shipped via Vercel CI/CD with SSR for SEO-friendly URLs.
 - Resolved server/client component boundary and session-handling issues to keep user state reliable across the app.
 
 </details>
@@ -129,13 +131,15 @@ A full-stack creator monetization platform where fans support their favourite cr
 | **Stack** | Next.js (Server Actions, SSR), NextAuth, MongoDB, Razorpay, Tailwind CSS |
 | **Payments** | Real-time Razorpay payments with server-side **webhook signature verification** to block spoofed/replayed payments |
 | **Performance** | **81% faster profile lookups (27ms → 5ms)** across **5,000+ records** using compound MongoDB indexing |
+| **Quality** | Responsive Tailwind dark-theme UI with **Lighthouse 90+** |
 | **Testing** | Full payment flow tested across **10+ Razorpay sandbox transactions** |
 | **Deployment** | Vercel CI/CD |
 
 **Engineering Highlights:**
-- Built personalized `/username` creator pages with a responsive Tailwind dark-theme UI, backed by a MongoDB schema for users, profiles, and transactions.
-- Engineered secure Razorpay webhook verification, collision-safe username generation, and a live top-10 supporters leaderboard with names and messages.
-- Optimized profile lookups with compound MongoDB indexing (81% faster).
+- Built personalized `/username` creator pages with a responsive Tailwind dark-theme UI (Lighthouse 90+) and real-time Razorpay payments, backed by a MongoDB schema for users, profiles, and transactions.
+- Engineered server-side Razorpay webhook signature verification to block spoofed/replayed payments, plus collision-safe username generation and a live top-10 supporters leaderboard with names and messages.
+- Optimized profile lookups with compound MongoDB indexing (81% faster, 27ms → 5ms) across 5,000+ records.
+- Tested the full payment flow across 10+ Razorpay sandbox transactions and deployed via Vercel CI/CD.
 - Migrated component styling from inline styles to a fully Tailwind-driven design system.
 
 </details>
@@ -147,14 +151,14 @@ A full-stack creator monetization platform where fans support their favourite cr
 ## 💼 Experience
 
 **Web Development Intern**
-**SkillCraft Technology** · Jul 2025 – Aug 2025 · Remote
+**SkillCraft Technology** · Jul 2025 – Aug 2025 · Remote · [skillcrafttech.com](https://skillcrafttech.com)
 
-Built interactive, responsive web applications with vanilla JavaScript (ES6+), HTML, and CSS during a focused engineering internship.
+Built interactive, responsive web applications with vanilla JavaScript (ES6+), HTML5, and CSS3 during a focused engineering internship.
 
 **Scope of Work:**
-- Built 3 vanilla JS apps: a **stopwatch** (event-driven DOM manipulation, state management), a **responsive landing page** (CSS3 Flexbox, Grid, media queries), and a **quiz app** (real-time scoring, localStorage persistence).
-- Wrote modular, reusable JavaScript functions and responsive CSS architectures, translating directly into faster React component design and cleaner Next.js page structures.
-- Debugged DOM state edge cases and timing bugs without framework abstractions, building core mechanics now applied to React state logic and Next.js App Router session handling.
+- Developed 3 projects from scratch in vanilla JavaScript (ES6+), HTML5, and CSS3: a **stopwatch** driven by user events, a **quiz app** that scores answers in real time, and a **responsive landing page** that adapts to different screen sizes.
+- Wrote modular, reusable functions using event-driven DOM manipulation and state management for the stopwatch timer and quiz real-time scoring, with localStorage persistence.
+- Styled the landing page with CSS Grid, Flexbox, and media queries; debugged DOM state edge cases and timing bugs without framework abstractions, now applied to React state logic and Next.js App Router session handling.
 
 `HTML5` `CSS3` `JavaScript (ES6+)` `Flexbox` `Grid` `localStorage`
 
@@ -178,10 +182,10 @@ CGPA: 7.88 / 10.0
 
 | Recognition | Details |
 |---|---|
-| 🧩 DSA Practice | Solved **200+ problems** across [LeetCode](https://leetcode.com/u/AYUSH_SAREEN12/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushsar9zfh), and [takeUforward](https://takeuforward.org/profile/ayushsareen) |
+| 🧩 DSA Practice | Solved **200+ algorithmic problems in Java** across [LeetCode](https://leetcode.com/u/AYUSH_SAREEN12/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushsar9zfh), and [takeUforward](https://takeuforward.org/profile/ayushsareen), strengthening core data structures and problem-solving skills |
 | 📄 Research Paper | First-authored *"CampusConnect: A Centralized Web Platform for Discovering Student Opportunities"* — International Journal of Computer Science Languages (IJCSL), Vol. 4, Issue 2, 2026 (ISSN: 3048-944X) |
 | 🥈 HackWithDelhi | Secured a **Top 40** rank (2024) |
-| 🚀 Code Veda 2025 | Advanced to the online round among **6,000+ participants** |
+| 🚀 Code Veda 2025 | Advanced to the online round, competing among **6,000+ participants** |
 | 🏅 Hackathons | Also competed in Smart India Hackathon and Troubleshoot Ideathon 2025 |
 
 </div>
@@ -284,7 +288,7 @@ currently:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsareen793@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sareen-792283255/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsareen0808)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsareen793)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ayushsareen.vercel.app/)
 
