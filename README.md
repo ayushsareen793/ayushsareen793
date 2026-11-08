@@ -23,7 +23,6 @@
 ![Total Views](https://img.shields.io/badge/Total%20Views-144-7c3aed?style=flat-square&labelColor=1f2937)
 [![New Views](https://hits.sh/github.com/ayushsareen793.svg?style=flat-square&label=New%20Views&color=7c3aed&labelColor=1f2937)](https://hits.sh/github.com/ayushsareen793/)
 ![Followers](https://img.shields.io/github/followers/ayushsareen793?color=7c3aed&style=flat-square&label=Followers)
-![Total Stars](https://img.shields.io/static/v1?label=Total%20Stars&message=0&color=6d28d9&style=flat-square&labelColor=1f2937)
 <!-- Old Stars badge: shields.io has no total-stars-per-user endpoint, so this never loaded
 ![Stars](https://img.shields.io/github/stars/ayushsareen793?color=6d28d9&style=flat-square&label=Stars)
 -->
@@ -31,7 +30,9 @@
 ![Travel-Log Stars](https://img.shields.io/github/stars/ayushsareen793/Travel-Log-Project?color=6d28d9&style=flat-square&label=Travel-Log%20Stars)
 ![GetMeACoffee Stars](https://img.shields.io/github/stars/ayushsareen793/GetMeACOFFEE-A-Creator-Funding-Platform?color=6d28d9&style=flat-square&label=GetMeACoffee%20Stars)
 -->
-<!-- Total Stars is a static badge: change message=0 in its URL to your real total (Travel-Log stars + GetMeACoffee stars) -->
+<!-- Total Stars badge removed because it was not loading, kept so you can switch back
+![Total Stars](https://img.shields.io/static/v1?label=Total%20Stars&message=0&color=6d28d9&style=flat-square&labelColor=1f2937)
+-->
 
 </div>
 
