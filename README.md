@@ -151,7 +151,7 @@ A full-stack creator monetization platform where fans support their favourite cr
 ## 💼 Experience
 
 **Web Development Intern**
-**SkillCraft Technology** · Jul 2025 – Sept 2025 · Remote · [skillcrafttech.com](https://skillcrafttech.com)
+**SkillCraft Technology** · Jul 2025 – Sept 2025 · Remote 
 
 Worked across the MERN stack on authentication, backend APIs and a React storefront during a remote full-stack internship.
 
