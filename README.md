@@ -26,8 +26,12 @@
 <!-- Old Stars badge: shields.io has no total-stars-per-user endpoint, so this never loaded
 ![Stars](https://img.shields.io/github/stars/ayushsareen793?color=6d28d9&style=flat-square&label=Stars)
 -->
+<!-- Per-repo star badges, kept so you can switch back
 ![Travel-Log Stars](https://img.shields.io/github/stars/ayushsareen793/Travel-Log-Project?color=6d28d9&style=flat-square&label=Travel-Log%20Stars)
 ![GetMeACoffee Stars](https://img.shields.io/github/stars/ayushsareen793/GetMeACOFFEE-A-Creator-Funding-Platform?color=6d28d9&style=flat-square&label=GetMeACoffee%20Stars)
+-->
+<!-- Total Stars: shields.io has no total-stars endpoint, so this is a static badge. Change the 0 in the URL to your real total (Travel-Log stars + GetMeACoffee stars) -->
+![Total Stars](https://img.shields.io/badge/Total%20Stars-0-6d28d9?style=flat-square&labelColor=1f2937)
 
 </div>
 
