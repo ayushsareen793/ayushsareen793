@@ -23,7 +23,11 @@
 ![Total Views](https://img.shields.io/badge/Total%20Views-144-7c3aed?style=flat-square&labelColor=1f2937)
 [![New Views](https://hits.sh/github.com/ayushsareen793.svg?style=flat-square&label=New%20Views&color=7c3aed&labelColor=1f2937)](https://hits.sh/github.com/ayushsareen793/)
 ![Followers](https://img.shields.io/github/followers/ayushsareen793?color=7c3aed&style=flat-square&label=Followers)
+<!-- Old Stars badge: shields.io has no total-stars-per-user endpoint, so this never loaded
 ![Stars](https://img.shields.io/github/stars/ayushsareen793?color=6d28d9&style=flat-square&label=Stars)
+-->
+![Travel-Log Stars](https://img.shields.io/github/stars/ayushsareen793/Travel-Log-Project?color=6d28d9&style=flat-square&label=Travel-Log%20Stars)
+![GetMeACoffee Stars](https://img.shields.io/github/stars/ayushsareen793/GetMeACOFFEE-A-Creator-Funding-Platform?color=6d28d9&style=flat-square&label=GetMeACoffee%20Stars)
 
 </div>
 
@@ -151,7 +155,7 @@ A full-stack creator monetization platform where fans support their favourite cr
 ## 💼 Experience
 
 **Web Development Intern**
-**SkillCraft Technology** · Jul 2025 – Sept 2025 · Remote 
+**SkillCraft Technology** · Jul 2025 – Sept 2025 · Remote · [skillcrafttech.com](https://skillcrafttech.com)
 
 Worked across the MERN stack on authentication, backend APIs and a React storefront during a remote full-stack internship.
 
