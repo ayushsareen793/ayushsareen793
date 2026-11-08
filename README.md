@@ -151,16 +151,16 @@ A full-stack creator monetization platform where fans support their favourite cr
 ## 💼 Experience
 
 **Web Development Intern**
-**SkillCraft Technology** · Jul 2025 – Aug 2025 · Remote · [skillcrafttech.com](https://skillcrafttech.com)
+**SkillCraft Technology** · Jul 2025 – Sept 2025 · Remote · [skillcrafttech.com](https://skillcrafttech.com)
 
-Built interactive, responsive web applications with vanilla JavaScript (ES6+), HTML5, and CSS3 during a focused engineering internship.
+Worked across the MERN stack on authentication, backend APIs and a React storefront during a remote full-stack internship.
 
 **Scope of Work:**
-- Developed 3 projects from scratch in vanilla JavaScript (ES6+), HTML5, and CSS3: a **stopwatch** driven by user events, a **quiz app** that scores answers in real time, and a **responsive landing page** that adapts to different screen sizes.
-- Wrote modular, reusable functions using event-driven DOM manipulation and state management for the stopwatch timer and quiz real-time scoring, with localStorage persistence.
-- Styled the landing page with CSS Grid, Flexbox, and media queries; debugged DOM state edge cases and timing bugs without framework abstractions, now applied to React state logic and Next.js App Router session handling.
+- Implemented **JWT-based authentication** (registration, login, persistent sessions) with **bcrypt** password hashing, and added **role-based access control** across 2 user roles to restrict protected routes and resources.
+- Created the backend for an **Employee Management System**: RESTful API endpoints providing full CRUD over employee records in MongoDB, with server-side input validation before persistence, and tested all routes in Postman.
+- Developed a **React e-commerce storefront** with 20+ products, a cart with real-time total and quantity updates, and client-side sorting and filtering to speed up product discovery.
 
-`HTML5` `CSS3` `JavaScript (ES6+)` `Flexbox` `Grid` `localStorage`
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
 
 <br/>
 
