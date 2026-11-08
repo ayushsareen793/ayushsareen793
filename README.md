@@ -151,7 +151,7 @@ A full-stack creator monetization platform where fans support their favourite cr
 ## 💼 Experience
 
 **Web Development Intern**
-**SkillCraft Technology** · Jul 2025 – Sept 2025 · Remote 
+**SkillCraft Technology** · Jul 2025 – Sept 2025 · Remote · [skillcrafttech.com](https://skillcrafttech.com)
 
 Worked across the MERN stack on authentication, backend APIs and a React storefront during a remote full-stack internship.
 
@@ -228,12 +228,18 @@ CGPA: 7.88 / 10.0
 
 <div align="center">
 
+<!-- Old stats card (github-readme-stats.vercel.app was not loading), kept so you can switch back
 <img src="https://github-readme-stats.vercel.app/api?username=ayushsareen793&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
+-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsareen793&theme=github_dark" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=ayushsareen793&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
+<!-- Old top languages card, kept so you can switch back
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsareen793&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushsareen793&theme=github_dark" width="49%"/>
 
 </div>
 
@@ -245,7 +251,10 @@ CGPA: 7.88 / 10.0
 
 <div align="center">
 
+<!-- Old activity graph (server was not loading), kept so you can switch back
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsareen793&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+-->
+<img src="https://ghchart.rshah.org/7c3aed/ayushsareen793" width="100%"/>
 
 </div>
 
