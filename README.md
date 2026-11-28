@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ayush%20Sareen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20and%20Next.js&descAlignY=55&descAlign=50" width="100%"/>
 
+<!-- Old last typing line, kept so you can switch back: Turning Ideas Into Scalable Products -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+End-to-End+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;OAuth+%2B+JWT+Auth+%7C+Razorpay+Payments;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+End-to-End+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;OAuth+%2B+JWT+Auth+%7C+Razorpay+Payments;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -52,7 +53,10 @@ const ayushSareen = {
 };
 ```
 
+<!-- Old About Me paragraph, kept so you can switch back
 I'm a Full-Stack Developer skilled in the **MERN** and **Next.js** ecosystem, with two live applications featuring real payment integration and secure multi-provider authentication (**OAuth, JWT**). I'm proficient in RESTful API design, MongoDB, and shipping via CI/CD, with hands-on experience debugging session management and App Router issues.
+-->
+I'm a Full-Stack Developer (**MERN & Next.js**) experienced in building and deploying responsive web applications, including two live platforms featuring payment gateway integration and secure multi-provider authentication (**OAuth/JWT**). I'm skilled in designing RESTful APIs, optimizing MongoDB query performance and deploying through CI/CD, with hands-on experience debugging session management and App Router issues.
 
 From data modeling and indexing to API routes, authentication flows, and Tailwind-driven UI, I care about writing code that's clean, secure, fast, and production-ready.
 
@@ -165,12 +169,20 @@ A full-stack creator monetization platform where fans support their favourite cr
 **SkillCraft Technology** · Jul 2025 – Sept 2025 · Remote · [skillcrafttech.com](https://skillcrafttech.com)
 -->
 
+<!-- Old intro line, kept so you can switch back
 Worked across the MERN stack on authentication, backend APIs and a React storefront during a remote full-stack internship.
+-->
+Worked across the MERN stack on an e-commerce store, authentication and backend APIs during a remote full-stack internship.
 
 **Scope of Work:**
+<!-- Old Scope of Work bullets, kept so you can switch back
 - Implemented **JWT-based authentication** (registration, login, persistent sessions) with **bcrypt** password hashing, and added **role-based access control** across 2 user roles to restrict protected routes and resources.
 - Created the backend for an **Employee Management System**: RESTful API endpoints providing full CRUD over employee records in MongoDB, with server-side input validation before persistence, and tested all routes in Postman.
 - Developed a **React e-commerce storefront** with 20+ products, a cart with real-time total and quantity updates, and client-side sorting and filtering to speed up product discovery.
+-->
+- Created a **MERN e-commerce store** with **27 products**, a real-time cart and checkout, and an admin dashboard with **5 order statuses**, so customers can search and filter while admins manage products, stock and orders.
+- Secured MERN apps with **JWT authentication**, **bcrypt** hashing and persistent sessions, and enforced **role-based access control (RBAC)** for **2 roles** (customer, admin) in the e-commerce store.
+- Developed **8 REST API endpoints** (Express, MongoDB) for an **Employee Management System** with JWT-protected CRUD, search, filtering and server-side validation; all routes tested in Postman.
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
 
@@ -194,13 +206,18 @@ CGPA: 7.88 / 10.0
 
 | Recognition | Details |
 |---|---|
-| 🧩 DSA Practice | Solved **200+ algorithmic problems in Java** across [LeetCode](https://leetcode.com/u/AYUSH_SAREEN12/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushsar9zfh), and [takeUforward](https://takeuforward.org/profile/ayushsareen), strengthening core data structures and problem-solving skills |
+| 🧩 DSA Practice | Solved **250+ Data Structures and Algorithms (DSA) problems in Java** across [LeetCode](https://leetcode.com/u/AYUSH_SAREEN12/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushsar9zfh), and [takeUforward](https://takeuforward.org/profile/ayushsareen), strengthening core data structures and problem-solving skills |
 | 📄 Research Paper | First-authored *"CampusConnect: A Centralized Web Platform for Discovering Student Opportunities"* — International Journal of Computer Science Languages (IJCSL), Vol. 4, Issue 2, 2026 (ISSN: 3048-944X) |
 | 🥈 HackWithDelhi | Secured a **Top 40** rank (2024) |
-| 🚀 Code Veda 2025 | Advanced to the online round, competing among **6,000+ participants** |
+| 🚀 Code Veda 2025 | **Semifinalist** — reached the semifinal round (the online round was the second-last round, with the final held at Microsoft), competing among **6,000+ participants** |
 | 🏅 Hackathons | Also competed in Smart India Hackathon and Troubleshoot Ideathon 2025 |
 
 </div>
+
+<!-- Old Achievements rows, kept so you can switch back
+| 🧩 DSA Practice | Solved **200+ algorithmic problems in Java** across [LeetCode](https://leetcode.com/u/AYUSH_SAREEN12/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushsar9zfh), and [takeUforward](https://takeuforward.org/profile/ayushsareen), strengthening core data structures and problem-solving skills |
+| 🚀 Code Veda 2025 | Advanced to the online round, competing among **6,000+ participants** |
+-->
 
 <br/>
 
