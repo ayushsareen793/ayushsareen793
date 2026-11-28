@@ -209,7 +209,7 @@ CGPA: 7.88 / 10.0
 | 🧩 DSA Practice | Solved **250+ Data Structures and Algorithms (DSA) problems in Java** across [LeetCode](https://leetcode.com/u/AYUSH_SAREEN12/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushsar9zfh), and [takeUforward](https://takeuforward.org/profile/ayushsareen), strengthening core data structures and problem-solving skills |
 | 📄 Research Paper | First-authored *"CampusConnect: A Centralized Web Platform for Discovering Student Opportunities"* — International Journal of Computer Science Languages (IJCSL), Vol. 4, Issue 2, 2026 (ISSN: 3048-944X) |
 | 🥈 HackWithDelhi | Secured a **Top 40** rank (2024) |
-| 🚀 Code Veda 2025 | **Semifinalist** — reached the semifinal round (the online round was the second-last round, with the final held at Microsoft), competing among **6,000+ participants** |
+| 🚀 Code Veda 2025 | **Semifinalist** — reached the semifinal round (online round), competing among **6,000+ participants** |
 | 🏅 Hackathons | Also competed in Smart India Hackathon and Troubleshoot Ideathon 2025 |
 
 </div>
